@@ -6,6 +6,8 @@
 #include <string>
 #include "route_model.h"
 
+using std::sort;
+
 
 class RoutePlanner {
   public:
